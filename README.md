@@ -29,7 +29,7 @@
 <br>
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lekseel&" alt="lekseel" /></p>
+<p>&nbsp;<img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=lekseel&" alt="lekseel" /></p>
 <br>
 <br>
 <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=lekseel&show_icons=true&theme=radical"/>
