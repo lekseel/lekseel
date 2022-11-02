@@ -7,7 +7,7 @@ I'm a self-taught passionate FrontEnd developer from Nigeria
 - 🌱 I’m currently a student in the Alx-Holberton Software Engineering program
 <br>
 <br>
-
+<hr>
  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lekseel&show_icons=true&theme=radical"/>
  
  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
