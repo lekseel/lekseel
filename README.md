@@ -1,4 +1,12 @@
 ### Hi there, I'm Lekseel 👋
+<br>
+
+
+I'm a self-taught passionate FrontEnd developer from Nigeria
+
+- 🌱 I’m currently a student in the Alx-Holberton Software Engineering program
+<br>
+<br>
 
  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lekseel&show_icons=true&theme=radical"/>
  
