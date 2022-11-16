@@ -22,7 +22,7 @@
 <br>
 <h3 align="left">Reach me on:</h3>
 <p align="left">
-<a href="https://twitter.com/lehqseel" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lehqseel04" height="20" width="30" /></a>
+<a href="https://twitter.com/lehqseel04" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lehqseel04" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/lekseel" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lehqseel" height="20" width="30" /></a>
 <a href="https://instagram.com/@lehqseel" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lehqseel" height="20" width="30" /></a>📫  olalekanshogbaike@gmail.com
 </p>
